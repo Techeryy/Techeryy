@@ -22,15 +22,7 @@
 
 <h3>Preffered Code Editors:</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-idle" title="Python Idle" width="50" height="50"/>
-  <img src="assets/sublime-text-original.png" alt="sublime-text" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" title="VS Code" width="50" height="50"/>
+  <img src="assets/sublime-text-original.png" alt="sublime-text" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" title="Eclipse IDE" width="50" height="50"/>
-</p>
-
-<h3>Operating Systems:</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original-wordmark.svg" alt="windows" title="Windows 11" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" title="Ubuntu" width="50" height="50"/>
 </p>

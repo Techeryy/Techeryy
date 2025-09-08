@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Stephen Adams
 - 💻 I’m currently working on my next project
-- 🏫 I’m currently studying A-Level Computer Science
+- 🏫 I’m currently learning Java
 - 🌷 Fun fact: I love walking in the countryside
 - 📫 How to reach me: contact@techery.cloud
 - 😄 Pronouns: He/Him

@@ -6,27 +6,27 @@
 - 😄 Pronouns: He/Him
 
 <h3>Languages and Tools:</h3>
-<p>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python [Advanced]" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" title="HTML [Advanced]" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" title="CSS [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/js/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium [Beginner]" width="50" height="50"/></a>
-  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java [Beginner]" width="50" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.portainer.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg" alt="portainer" title="Portainer [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.sqlite.org/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite [Intermediate]" width="50" height="50"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS [Intermediate]" width="50" height="50"/></a>
-  <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" title="Raspberry Pi [Advanced]" width="50" height="50"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" title="Flask [Advanced]" width="50" height="50"/></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" title="Bash [Beginner]" width="50" height="50"/></a>
-</p>
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python [Advanced]" width="50" />](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML [Advanced]" width="50" />](https://www.w3schools.com/html/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS [Intermediate]" width="50" />](https://www.w3schools.com/css/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript [Intermediate]" width="50" />](https://www.w3schools.com/js/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium [Beginner]" width="50" />](https://www.selenium.dev/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js [Intermediate]" width="50" />](https://vuejs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java [Beginner]" width="50" />](https://www.java.com/en/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker [Intermediate]" width="50" />](https://www.docker.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/portainer/portainer-original.svg" title="Portainer [Intermediate]" width="50" />](https://www.portainer.io/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="SQLite [Intermediate]" width="50" />](https://www.sqlite.org/index.html)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS [Intermediate]" width="50" />](https://tailwindcss.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi [Advanced]" width="50" />](https://www.raspberrypi.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask [Advanced]" width="50" />](https://flask.palletsprojects.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" title="Bash [Beginner]" width="50" />](https://www.gnu.org/software/bash/)
 
 <h3>Preffered Code Editors:</h3>
-<p>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" title="VS Code" width="50" height="50"/></a>
-  <a href="https://www.sublimetext.com/"><img src="assets/sublime-text-original.png" alt="sublime-text" title="Sublime Text" width="50" height="50"/></a>
-  <a href="https://eclipseide.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" title="Eclipse IDE" width="50" height="50"/></a>
-</p>
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" width="50" />](https://code.visualstudio.com/)
+[<img src="assets/sublime-text-original.png" title="Sublime Text" width="50" />](https://www.sublimetext.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" title="Eclipse IDE" width="50" />](https://eclipseide.org/)
+
+
 <img src="https://komarev.com/ghpvc/?username=techeryy&label=Profile%20views&color=0e75b6&style=flat" alt="techeryy" />

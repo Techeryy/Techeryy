@@ -2,7 +2,7 @@
 - 💻 I’m currently working on my next project
 - 🏫 I’m currently learning Java
 - 🌷 Fun fact: I love walking in the countryside
-- 📫 How to reach me: contact@techery.cloud
+- 📫 How to reach me: stephen@techery.cloud
 - 😄 Pronouns: He/Him
 
 <h3>Languages and Tools:</h3>
